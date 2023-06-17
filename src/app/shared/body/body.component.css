@@ -1,0 +1,27 @@
+.presentation {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .details h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .details p {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
